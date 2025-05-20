@@ -1,3 +1,17 @@
-body {
 
+h1 {
+  color: #B5E2FA 
+ ;text-decoration: pink wavy overline
+ ;text-shadow: 1px 1px 5px blue; 
+}
+   h1:hover {
+     font-size: 300%
+    ; text-transform: uppercase
+    ; text-decoration: pink wavy underline 
+    ; text-decoration: pink wavy overline
+    ; font-style: italic; 
+   }   
+
+body {
+  Background-color: #F9F7F3 ;
 }

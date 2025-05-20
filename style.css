@@ -15,3 +15,8 @@ h1 {
 body {
   Background-color: #F9F7F3 ;
 }
+img { 
+  border-style: solid;
+  border-color: #bcecac;
+  border-width: 10px
+}

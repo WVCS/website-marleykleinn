@@ -1,16 +1,30 @@
+nav {
+  list-style-type: none;
+  width: 100%; 
+  background-color: pink; 
+  position: fixed; 
+  top: 0;
+  left: 0;
+}
+li a {
+  color: #a60063; 
+  text-decoration: none; 
+  display: block; 
+  float: left;
+  padding: 15px 50px; 
+  font-size: 30px
+}
+
+li a:hover {
+  background-color: white;
+  color: black;
+} 
 
 h1 {
   color: #B5E2FA 
  ;text-decoration: pink wavy overline
  ;text-shadow: 1px 1px 5px blue; 
 }
-   h1:hover {
-     font-size: 300%
-    ; text-transform: uppercase
-    ; text-decoration: pink wavy underline 
-    ; text-decoration: pink wavy overline
-    ; font-style: italic; 
-   }   
 
 body {
   Background-color: #F9F7F3 ;
